@@ -1,0 +1,27 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+#header
+{
+background-color:blue;height: 100px; text-align:center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 50px;
+}
+
+#body
+{
+    background-color: red; height: 600px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+#footer
+{
+    background-color: black;height: 50px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
